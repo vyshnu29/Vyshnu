@@ -29,7 +29,7 @@
 
 
 
-[![Linkedin: nadiminti-vyshnu](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadiminti-vyshnu-25618b1b6/)](https://www.linkedin.com/in/nadiminti-vyshnu-25618b1b6/)
+[![Linkedin: nadiminti-vyshnu](https://img.shields.io/badge/-vyshnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadiminti-vyshnu-25618b1b6/)](https://www.linkedin.com/in/nadiminti-vyshnu-25618b1b6/)
 [![GitHub vyshnu29]](https://github.com/vyshnu29)
 
 
